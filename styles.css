@@ -1,0 +1,38 @@
+body {
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff7f7;
+}
+h1 {
+    color: #fff7f7;
+    text-align: center;
+
+}
+h2{
+    color: #fff7f7;
+}
+#Contacts {
+    margin: 50px; /* Adds 20 pixels of margin around the section */
+    padding: 10px; /* Adds 10 pixels of padding within the section */
+    color: #fff7f7;
+}
+
+#Skills {
+    margin: 50px; /* Adds 20 pixels of margin around the section */
+    padding: 10px; /* Adds 10 pixels of padding within the section */
+    color: #fff7f7;
+}
+
+#Education {
+    margin: 50px; /* Adds 20 pixels of margin around the section */
+    padding: 10px; /* Adds 10 pixels of padding within the section */
+    color: #fff7f7;
+}
+
+#Expirence {
+    margin: 50px; /* Adds 20 pixels of margin around the section */
+    padding: 10px; /* Adds 10 pixels of padding within the section */
+    color: #fff7f7;
+}
+
